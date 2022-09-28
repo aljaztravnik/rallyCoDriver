@@ -1,4 +1,4 @@
-#What is this about?
+# What is this about?
 
 RallyCoDriver is a project created by Aljaž Travnik with the purpose of making driving fun.
 
